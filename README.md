@@ -1,2 +1,2 @@
-# Excel-sheet-basics
-this is the first assignment of excel in internshala
+# MS.Excel-sheet-basics
+this is the assignment of msexcel in internshala
